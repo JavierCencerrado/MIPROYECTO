@@ -1,0 +1,14 @@
+C:\Users\javceneir\Documents\ED\MIPROYECTO\bin\Debug\net9.0\MIPROYECTO.exe
+C:\Users\javceneir\Documents\ED\MIPROYECTO\bin\Debug\net9.0\MIPROYECTO.deps.json
+C:\Users\javceneir\Documents\ED\MIPROYECTO\bin\Debug\net9.0\MIPROYECTO.runtimeconfig.json
+C:\Users\javceneir\Documents\ED\MIPROYECTO\bin\Debug\net9.0\MIPROYECTO.dll
+C:\Users\javceneir\Documents\ED\MIPROYECTO\bin\Debug\net9.0\MIPROYECTO.pdb
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.AssemblyInfoInputs.cache
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.AssemblyInfo.cs
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.dll
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\refint\MIPROYECTO.dll
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.pdb
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\MIPROYECTO.genruntimeconfig.cache
+C:\Users\javceneir\Documents\ED\MIPROYECTO\obj\Debug\net9.0\ref\MIPROYECTO.dll
