@@ -1,4 +1,5 @@
 ﻿public class Matematicas
+/*Obtiene el máximo común divisor de dos números de forma recursiva, siendo a >b*/
 
 {
 
