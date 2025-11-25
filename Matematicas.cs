@@ -1,5 +1,5 @@
 ﻿public class Matematicas
-
+//hola
 {
 
 public static int MaximoComunDivisor(int a, int b)
